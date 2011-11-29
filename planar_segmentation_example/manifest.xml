@@ -1,0 +1,17 @@
+<package>
+  <description brief="planar_segmentation_example">
+
+     planar_segmentation_example
+
+  </description>
+  <author>William Woodall</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/planar_segmentation_example</url>
+  <depend package="roscpp"/>
+  <depend package="pcl"/>
+  <depend package="pcl_ros"/>
+
+</package>
+
+
